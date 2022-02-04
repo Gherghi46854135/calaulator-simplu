@@ -1,0 +1,40 @@
+body{
+    background-color: coral;
+}
+
+#header{
+    font-size: x-large;
+    font-family: cursive;
+    text-align: center;
+    background-color: beige;
+    width: fit-content;
+    margin: auto;
+}
+#section{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+#button{
+    margin-top: 45px;
+}
+input[type="radio"]{
+    width: 25px;
+    height: 25px;
+}
+input[type="text"]{
+    width: 100px;
+    height: 25px;
+}
+b{
+    font-size: 30px;
+}
+p{
+   display: inline-block;
+}
